@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @samvalvi
 - 👀 I’m interested in software development.
-- 💻 I’m currently learning python and C#.
 
 <!---
 samvalvi/samvalvi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
